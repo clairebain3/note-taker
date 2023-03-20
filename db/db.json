@@ -5,10 +5,12 @@
     },
     {
         "title": "cats",
-        "text": "i love my cat"
+        "text": "i love my cat",
+        "id": "c3po"
     },
     {
-        "title": "another note",
-        "text": "so many notes!"
+        "title": "groceries",
+        "text": "carrots, apples, milk",
+        "id": "b4cd"
     }
 ]
